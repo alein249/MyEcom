@@ -24,6 +24,10 @@
 
 ## [Assignment 4.2.2](https://github.com/alein249/MyEcom/tree/Assignment4.2.2/src)
 
+###It is a menu driven program in which everything is asked from user from console.
+
+###Here are some of the screenshots about how it works.
+
 > ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(6).png)
 
 > ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(8).png)
