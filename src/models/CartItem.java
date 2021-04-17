@@ -1,25 +1,25 @@
 package models;
 
-import java.util.HashMap;
-
 public class CartItem {
-    String name;
-    float costPerUnit;
-    float qty;
+    public String name;
+    public Product product;
+    float qty, unitPrice;
 
-    public CartItem(String name, float costPerUnit, float qty) {
+    public CartItem(Product product, String name, float qty, float unitPrice) {
+        this.product = product;
         this.name = name;
-        this.costPerUnit = costPerUnit;
         this.qty = qty;
+        this.unitPrice = unitPrice;
     }
 
     // Returns Cost of Cart Item
     float cost(){
-        return costPerUnit * qty;
+        return unitPrice * qty;
     }
 
     @Override
     public String toString() {
-        return "\n" + name + String.format("(%f X %f = %f)",costPerUnit,qty,cost());
+        return name + "  (" + String.format("%.2f X %.2f = %.2f", unitPrice, qty, cost()) +
+                ")\n";
     }
 }
