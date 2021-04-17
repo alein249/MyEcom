@@ -25,3 +25,13 @@
 ## [Assignment 4.2.2](https://github.com/alein249/MyEcom/tree/Assignment4.2.2/src)
 
 > ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(6).png)
+
+> ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(8).png)
+
+> ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(10).png)
+
+> ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(12).png)
+
+> ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(14).png)
+
+> ![](https://github.com/alein249/MyEcom/blob/Assignment4.2.2/Screenshot%20(16).png)
